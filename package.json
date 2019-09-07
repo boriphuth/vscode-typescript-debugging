@@ -2,7 +2,9 @@
   "name": "vscode-typescript-debugging",
   "version": "1.0.0",
   "devDependencies": {
-    "typescript": "^2.7.2"
+    "tslint": "^5.19.0",
+    "typescript": "^3.6.2",
+    "codelyzer": "~5.1.0"
   },
   "scripts": {
     "start": "node out/app.js",
